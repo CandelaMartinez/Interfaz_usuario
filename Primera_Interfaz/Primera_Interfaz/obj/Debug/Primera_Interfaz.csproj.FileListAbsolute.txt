@@ -1,0 +1,15 @@
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\bin\Debug\Primera_Interfaz.exe.config
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\bin\Debug\Primera_Interfaz.exe
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\bin\Debug\Primera_Interfaz.pdb
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.csproj.AssemblyReference.cache
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\App.g.cs
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz_MarkupCompile.cache
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz_MarkupCompile.lref
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.g.resources
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.Properties.Resources.resources
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.csproj.GenerateResource.cache
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.exe
+D:\lenguajes\C#\Primera_Interfaz\Primera_Interfaz\obj\Debug\Primera_Interfaz.pdb
