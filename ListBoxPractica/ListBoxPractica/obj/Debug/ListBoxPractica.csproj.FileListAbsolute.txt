@@ -1,0 +1,15 @@
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\bin\Debug\ListBoxPractica.exe.config
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\bin\Debug\ListBoxPractica.exe
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\bin\Debug\ListBoxPractica.pdb
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.AssemblyReference.cache
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\App.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica_MarkupCompile.cache
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica_MarkupCompile.lref
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.g.resources
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.Properties.Resources.resources
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.GenerateResource.cache
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.exe
+D:\lenguajes\C#\Interfaz_Usuario\ListBoxPractica\ListBoxPractica\obj\Debug\ListBoxPractica.pdb

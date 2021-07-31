@@ -1,0 +1,15 @@
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\bin\Debug\Tercera_Interfaz.exe.config
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\bin\Debug\Tercera_Interfaz.exe
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\bin\Debug\Tercera_Interfaz.pdb
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.csproj.AssemblyReference.cache
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\App.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz_MarkupCompile.cache
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz_MarkupCompile.lref
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.g.resources
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.Properties.Resources.resources
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.csproj.GenerateResource.cache
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.exe
+D:\lenguajes\C#\Interfaz_Usuario\Tercera_Interfaz\Tercera_Interfaz\obj\Debug\Tercera_Interfaz.pdb

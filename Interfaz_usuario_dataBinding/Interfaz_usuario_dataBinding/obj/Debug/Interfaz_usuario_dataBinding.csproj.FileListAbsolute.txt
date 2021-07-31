@@ -1,0 +1,15 @@
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\bin\Debug\Interfaz_usuario_dataBinding.exe.config
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\bin\Debug\Interfaz_usuario_dataBinding.exe
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\bin\Debug\Interfaz_usuario_dataBinding.pdb
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.csproj.AssemblyReference.cache
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\App.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding_MarkupCompile.cache
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding_MarkupCompile.lref
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.g.resources
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.Properties.Resources.resources
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.csproj.GenerateResource.cache
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.exe
+D:\lenguajes\C#\Interfaz_Usuario\Interfaz_usuario_dataBinding\Interfaz_usuario_dataBinding\obj\Debug\Interfaz_usuario_dataBinding.pdb
