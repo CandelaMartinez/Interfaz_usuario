@@ -1,0 +1,15 @@
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\bin\Debug\ComboBox_CheckBox.exe.config
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\bin\Debug\ComboBox_CheckBox.exe
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\bin\Debug\ComboBox_CheckBox.pdb
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.csproj.AssemblyReference.cache
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\App.g.cs
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox_MarkupCompile.cache
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox_MarkupCompile.lref
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.g.resources
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.Properties.Resources.resources
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.csproj.GenerateResource.cache
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.exe
+D:\lenguajes\C#\Interfaz_Usuario\ComboBox_CheckBox\ComboBox_CheckBox\obj\Debug\ComboBox_CheckBox.pdb

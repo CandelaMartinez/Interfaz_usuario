@@ -1,0 +1,60 @@
+﻿<Window x:Class="ComboBox_CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBox_CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="350" ></ColumnDefinition>
+
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+
+            <ComboBox Name="Capitaless">
+
+
+                <ComboBox.ItemTemplate>
+
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Text="{Binding NombreCapital }" FontSize="16"></TextBlock>
+                            
+                            
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+
+
+            </ComboBox>
+            
+        </StackPanel>
+
+        <!--..................................................................-->
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label FontSize="16" FontWeight="ExtraBlack">Paises</Label>
+            <CheckBox Name="TodasC" IsThreeState="True" Checked="TodasC_Checked" Unchecked="TodasC_Unchecked">Agregar Todas</CheckBox>
+            <StackPanel Margin="15">
+
+                <CheckBox x:Name="Madrid" Checked="IndividualChecked" Unchecked="IndividualNoChecked">Madrid</CheckBox>
+                <CheckBox x:Name="Bogota" Checked="IndividualChecked" Unchecked="IndividualNoChecked">Bogota</CheckBox>
+                <CheckBox x:Name="Lima" Checked="IndividualChecked" Unchecked="IndividualNoChecked">Lima</CheckBox>
+                <CheckBox x:Name="DF" Checked="IndividualChecked" Unchecked="IndividualNoChecked">DF</CheckBox>
+                <CheckBox x:Name="Santiago" Checked="IndividualChecked" Unchecked="IndividualNoChecked">Santiago</CheckBox>
+                
+                
+                
+            </StackPanel>
+            
+            
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>
